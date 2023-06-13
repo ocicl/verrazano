@@ -1,0 +1,10 @@
+* verrazano
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/fetter/verrazano.git   |
+| commit  |   |
+| systems | verrazano |
+|---------+-------------------------------------------|
+
