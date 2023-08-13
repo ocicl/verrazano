@@ -4,8 +4,9 @@
 A program will be created to automatically generate foreign function
 interface (FFI) bindings directly from C++ header files.
 
+
 |---------+---------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/fetter/verrazano.git |
-| commit  | a81497b6b3d88e456df3822a7dbad9a3700af221                |
+| commit  | a81497b                                                 |
 | systems | verrazano verrazano-runtime                             |
 |---------+---------------------------------------------------------|
